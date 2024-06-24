@@ -1,6 +1,10 @@
 # Car Insurance Analysis Project
 This project involves a comprehensive analysis of a car insurance dataset using multiple tools and technologies, including BigQuery, Looker Studio, and Tableau. The goal is to extract valuable insights from the data to support operational decision-making and upper management strategy.
 
+ Interested in Car Insurance Analysis? Check out my latest blog post on Medium where I explore the comprehensive data behind car insurance trends and insights.
+
+🔗 Read the full blog post here: https://medium.com/@chemistry8526/unlocking-the-power-of-data-comprehensive-car-insurance-analysis-cdc25cd3e31f
+
 # Project Overview
 Data Storage and Querying with BigQuery
 Operational Reporting with Looker Studio
